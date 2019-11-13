@@ -68,6 +68,5 @@ public class DecimalToRomanNumeralTest {
         assertEquals(expected, romanNumeral.toString());
     }
 
-}
 
 
